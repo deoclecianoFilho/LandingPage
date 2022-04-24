@@ -211,19 +211,18 @@ section.chamada h3{
 }
 
 .item-1-mosaico{
-    margin: 5px;
+    margin: 10px;
     height: 400px;
     background-position: center;
     background-size: cover;
-    width: 60%;
+    width: 70%;
 }
 
 .item-2-mosaico{
     display: inline-block;
     font-size: 28px;
     text-align: center;
-    width: 40%;
-    margin-top: 50px;
+    width: 30%;
     padding: 40px;
     color: #fff;
 }
